@@ -39,9 +39,6 @@ Q(s,a) = Q(s,a) + \alpha [r + \gamma \max Q(s',a') - Q(s,a)]
 Where:
 - α → Learning Rate  
 - γ → Discount Factor  
-- r → Reward  
-
----
-
-## 🏗️ Project Structure
+- r → Reward
+- 
 
